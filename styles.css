@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    font-size: 15px;
+}
+
+main {
+    background-color: whitesmoke;
+    margin: 10rem;
+    padding: 100px;
+    display: flex;
+    text-align: left;
+}
+main div {
+    width: 50%;
+    height: auto;
+}
+
+.orange {
+    background-color: hsl(31, 77%, 52%);
+    justify-content: left;
+    padding: 25px;
+}
+
+.orange img{
+    width: 12%;
+    padding: 0 0 5%;
+}
+.orange h3{
+    font-family: "Lexend Deca";
+    color: hsl(0, 0%, 95%);
+    font-weight: 700;
+    padding: 1% 0 5%;
+    /* font-size: 20px; */
+}
+.orange p{
+    font-family: "Big Shoulders Display";
+    font-weight: 100;
+    color: hsla(0, 0%, 100%, 0.75);
+    padding: 3% 7% 3% 0;  
+}
+
+.orange button{
+    background-color: hsl(0, 0%, 95%);
+    border: none;
+    border-radius: 16px;
+    width: 100px;
+    padding: 5%;
+    color: hsl(31, 77%, 52%);
+    margin: 10% 5% 5% 0;
+}
+
+ .dark-cyan {
+    background-color: hsl(179, 100%, 13%);
+    justify-content: left;
+    padding: 25px;
+}
+
+.dark-cyan img{
+    width: 12%;
+    padding: 0 0 5%;
+}
+.dark-cyan h3{
+    font-family: "Lexend Deca";
+    color: hsl(0, 0%, 95%);
+    font-weight: 700;
+    padding: 1% 0 5%;
+    /* font-size: 20px; */
+}
+.dark-cyan p{
+    font-family: "Big Shoulders Display";
+    font-weight: 100;
+    color: hsla(0, 0%, 100%, 0.75);
+    padding: 3% 7% 3% 0;  
+}
+
+.dark-cyan button{
+    background-color: hsl(0, 0%, 95%);
+    border: none;
+    border-radius: 16px;
+    width: 100px;
+    padding: 5%;
+    color: hsl(179, 100%, 13%);
+    margin: 10% 5% 5% 0;
+}
+
+.cyan {
+    background-color: hsl(184, 100%, 22%);
+    justify-content: left;
+    padding: 25px;
+}
+
+.cyan img{
+    width: 12%;
+    padding: 0 0 5%;
+}
+.cyan h3{
+    font-family: "Lexend Deca";
+    color: hsl(0, 0%, 95%);
+    font-weight: 700;
+    padding: 1% 0 5%;
+    /* font-size: 20px; */
+}
+.cyan p{
+    font-family: "Big Shoulders Display";
+    font-weight: 100;
+    color: hsla(0, 0%, 100%, 0.75);
+    padding: 3% 7% 3% 0;  
+}
+
+.cyan button{
+    background-color: hsl(0, 0%, 95%);
+    border: none;
+    border-radius: 16px;
+    width: 100px;
+    padding: 5%;
+    color: hsl(184, 100%, 22%);
+    margin: 10% 5% 5% 0;
+} 
